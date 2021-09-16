@@ -1,5 +1,5 @@
 ---
-page.title: Efficient Interoperability Testing of Heterogeneous Network Protocol Implementations
+title: Efficient Interoperability Testing of Heterogeneous Network Protocol Implementations
 ---
 
 # About The Project
