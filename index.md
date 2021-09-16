@@ -14,4 +14,3 @@ There has been an increasing interest in using hardware to implement network pro
 
 ## PhD Student: Tianqi Fang
 
-# Contact Us
