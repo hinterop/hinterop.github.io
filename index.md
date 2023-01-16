@@ -8,7 +8,10 @@ There has been an increasing interest in using hardware to implement network pro
 
 # Documents
 
-Tianqi Fang, Lisong Xu, and Witawas Srisa-an, "Efficient Verification of Timing-Related Network Functions in High-Speed Hardware", in Proceedings of IEEE INFOCOM, May 2023
+- Tianqi Fang, Lisong Xu, and Witawas Srisa-an, "Efficient Verification of Timing-Related Network Functions in High-Speed Hardware", in Proceedings of IEEE INFOCOM, May 2023
+
+- Tianqi Fang, Lisong Xu, Witawas Srisa-an, and Jay Patel, "Exploration and Evaluation of the Architectural Design Space of Bandwidth Estimation in ProgHW/SW-based Clouds", in Proceedings of Passive and Active Measurement Conference (PAM), March, 2023
+
 
 # Team
 
