@@ -12,7 +12,7 @@ There has been an increasing interest in using hardware to implement network pro
 
 - Tianqi Fang, Lisong Xu, Witawas Srisa-an, and Jay Patel, "Exploration and Evaluation of the Architectural Design Space of Bandwidth Estimation in ProgHW/SW-based Clouds", in Proceedings of Passive and Active Measurement Conference (PAM), March, 2023 [pdf](https://link.springer.com/chapter/10.1007/978-3-031-28486-1_12) [GitHub](https://github.com/ftqtfff/FPGABandwidth)
   
-- Tianqi Fang, "Evaluation and Verification of ProgHW/SW-based Network Functions in CLouds", PhD Dissertation, University of Nebraska-Lincoln, March 2023
+- Tianqi Fang, "Evaluation and Verification of ProgHW/SW-based Network Functions in Clouds", PhD Dissertation, University of Nebraska-Lincoln, March 2023
 
 
 # Contributors
