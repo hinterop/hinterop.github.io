@@ -8,7 +8,7 @@ There has been an increasing interest in using hardware to implement network pro
 
 # Documents
 
-- Nianhang Hu, Witawas Srisa-an, and Lisong Xu, "Using Symbolic Execution to Analyze Hardware TCP/IP Stacks based on HLS Development", [Verification Futures](https://www.tessolve.com/verification-futures/vf2024-austin-usa/), Austin, TX, September 2024 [Slides](documents/Nianhang_VF2024.pdf)
+- Nianhang Hu, Witawas Srisa-an, and Lisong Xu, "Using Symbolic Execution to Analyze Hardware TCP/IP Stacks based on HLS Development", [Verification Futures Conference](https://www.tessolve.com/verification-futures/vf2024-austin-usa/), Austin, TX, September 2024 [[Slides](documents/Nianhang-VF2024.pdf)]
 
 - Tianqi Fang, Lisong Xu, and Witawas Srisa-an, "Efficient Verification of Timing-Related Network Functions in High-Speed Hardware", in Proceedings of IEEE INFOCOM, May 2023 [[Paper](https://doi.org/10.1109/INFOCOM53939.2023.10228994)] [[GitHub](https://github.com/ftqtfff/TimingFunctionVerification)]
 
