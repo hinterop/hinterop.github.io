@@ -8,9 +8,11 @@ There has been an increasing interest in using hardware to implement network pro
 
 # Documents
 
-- Tianqi Fang, Lisong Xu, and Witawas Srisa-an, "Efficient Verification of Timing-Related Network Functions in High-Speed Hardware", in Proceedings of IEEE INFOCOM, May 2023 [Paper](https://doi.org/10.1109/INFOCOM53939.2023.10228994) [GitHub](https://github.com/ftqtfff/TimingFunctionVerification)
+- Nianhang Hu, Witawas Srisa-an, and Lisong Xu, "Using Symbolic Execution to Analyze Hardware TCP/IP Stacks based on HLS Development", [Verification Futures](https://www.tessolve.com/verification-futures/vf2024-austin-usa/), Austin, TX, September 2024 [Slides](documents/Nianhang_VF2024.pdf)
 
-- Tianqi Fang, Lisong Xu, Witawas Srisa-an, and Jay Patel, "Exploration and Evaluation of the Architectural Design Space of Bandwidth Estimation in ProgHW/SW-based Clouds", in Proceedings of Passive and Active Measurement Conference (PAM), March, 2023 [Paper](https://link.springer.com/chapter/10.1007/978-3-031-28486-1_12) [GitHub](https://github.com/ftqtfff/FPGABandwidth)
+- Tianqi Fang, Lisong Xu, and Witawas Srisa-an, "Efficient Verification of Timing-Related Network Functions in High-Speed Hardware", in Proceedings of IEEE INFOCOM, May 2023 [[Paper](https://doi.org/10.1109/INFOCOM53939.2023.10228994)] [[GitHub](https://github.com/ftqtfff/TimingFunctionVerification)]
+
+- Tianqi Fang, Lisong Xu, Witawas Srisa-an, and Jay Patel, "Exploration and Evaluation of the Architectural Design Space of Bandwidth Estimation in ProgHW/SW-based Clouds", in Proceedings of Passive and Active Measurement Conference (PAM), March, 2023 [[Paper](https://link.springer.com/chapter/10.1007/978-3-031-28486-1_12)] [[GitHub](https://github.com/ftqtfff/FPGABandwidth)]
   
 - Tianqi Fang, "Evaluation and Verification of ProgHW/SW-based Network Functions in Clouds", PhD Dissertation, University of Nebraska-Lincoln, March 2023
 
