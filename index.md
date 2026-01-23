@@ -24,9 +24,10 @@ There has been an increasing interest in using hardware to implement network pro
 
 # Code
 
-- Efficient Verification of Timing-Related Network Functions: [code repository with instructions](https://github.com/ftqtfff/TimingFunctionVerification)
+- Automatic implementation of customized Linux congestion control: [code repository with instructions](https://github.com/zmrui/NECC)
   
-- Non-Expert Customized Congestion control (NECC) for automatic implementation of Linux congestion control: [code repository with instructions](https://github.com/zmrui/NECC)
+- Efficient verification of timing-related network functions: [code repository with instructions](https://github.com/ftqtfff/TimingFunctionVerification)
+  
   
 # Contributors
 
@@ -38,6 +39,7 @@ There has been an increasing interest in using hardware to implement network pro
 ## PhD Students
 
 - Tianqi Fang
+- Mingrui Zhang
 
 ## MS Students
 
