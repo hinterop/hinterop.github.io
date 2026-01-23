@@ -10,6 +10,10 @@ There has been an increasing interest in using hardware to implement network pro
 
 - Nianhang Hu, Tate Koziol, Witawas Srisa-an, and Lisong Xu, "Enabling Symbolic Execution for Hardware TCP/IP Stack based on AMD Vitis HLS", Proceedings of ICCCN, Tokyo, Japan, August 2025 [[Paper](https://doi.org/10.1109/ICCCN65249.2025.11133817)]
 
+- Mingrui Zhang, Hamid Bagheri, and Lisong Xu, "Toward Non-Expert Customized Congestion Control", in IEEE International Conference on Communications (ICC), Montreal, Canada, June 2025 [[Paper](https://ieeexplore.ieee.org/abstract/document/11160790)] [[GitHub](https://github.com/zmrui/NECC)]
+
+- Nianhang Hu, "Using Symbolic Execution to Analyze the Hardware TCP Protocol", MS Thesis, University of Nebraska-Lincoln, December 2024 [[PDF](https://digitalcommons.unl.edu/computerscidiss/241/)]
+  
 - Nianhang Hu, Witawas Srisa-an, and Lisong Xu, "Using Symbolic Execution to Analyze Hardware TCP/IP Stacks based on HLS Development", [Verification Futures Conference](https://www.tessolve.com/verification-futures/vf2024-austin-usa/), Austin, TX, September 2024 [[Slides](documents/Nianhang-VF2024.pdf)]
 
 - Tianqi Fang, Lisong Xu, and Witawas Srisa-an, "Efficient Verification of Timing-Related Network Functions in High-Speed Hardware", in Proceedings of IEEE INFOCOM, May 2023 [[Paper](https://doi.org/10.1109/INFOCOM53939.2023.10228994)] [[GitHub](https://github.com/ftqtfff/TimingFunctionVerification)]
